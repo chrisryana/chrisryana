@@ -17,7 +17,7 @@
 - [Must Read](https://gist.github.com/chrisryana/dfb4e606f017653d069092d69f2b5fd2)
 - [Функции из lodash](https://gist.github.com/chrisryana/2c767e6f29cfba1899d0a4ed727c00bd)
 - [Интересные штуки на чистом HTML](https://gist.github.com/chrisryana/303fe64e5a42b395b0ef1bcd14830492)
-- [CSS фичи](https://gist.github.com/chrisryana/17bdb7ba64f189201cb8e81421e30106)
+- [CSS Notes](https://gist.github.com/chrisryana/17bdb7ba64f189201cb8e81421e30106)
 
 </td><td valign="top" width="50%">
 
