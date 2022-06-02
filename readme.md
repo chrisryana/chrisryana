@@ -1,7 +1,7 @@
 <p align='center'>
   <img  src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
 </p>
-<h2 align="center">Привет <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, меня зовут Кристина</h2>
+<h2 align="center">Привет <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, меня зовут Кристина</h2>
 <p align="center">
   Здесь я храню свои заметки и экспериментирую с кодом
 </p>
